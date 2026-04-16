@@ -40,11 +40,12 @@ Internet
 terraform init
 terraform plan
 terraform apply
+```
 
 🧹 Cleanup
-
+```
 terraform destroy
-
+```
 🧠 Key Learnings
 
 Built AWS networking from scratch using Terraform
